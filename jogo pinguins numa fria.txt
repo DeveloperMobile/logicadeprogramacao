@@ -1,0 +1,23 @@
+Inicio Jogo
+coloca filhote (azul)
+coloca adulto(azul)
+atravessa
+deixa adulto(azul)
+atravessa
+coloca filhote(verde)
+atravessa
+deixa filhote(azul)
+atravessa
+coloca adulto (verde)
+atravessa
+deixa adulto (verde)
+atravessa
+coloca filhote(vermelho)
+atravessa
+deixa filhote(verde)
+atravessa
+coloca adulto (vermelho)
+atravessa
+deixa adulto (vermelho)
+deixa filhote (vermelho)
+fim de jogo

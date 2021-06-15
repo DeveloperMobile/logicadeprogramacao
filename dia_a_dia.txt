@@ -1,0 +1,15 @@
+inicio
+levantar da cama
+tomar banho
+escovar os dentes
+tomar café
+escovar os dentes
+trabalhar
+almoçar
+escovar os dentes
+trabalhar
+tomar banho
+tomar café
+escovar os dentes
+dormir
+fim
